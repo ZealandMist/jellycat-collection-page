@@ -9,6 +9,7 @@ Install Node.js by following the instruction on their website (https://nodejs.or
 1. Clone repository:
 
 git clone https://github.com/your-username/jellycat-collection-page.git
+
 cd jellycat-collection-page
 
 2. Install dependencies:
