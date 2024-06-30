@@ -1,3 +1,10 @@
+There is an axios dependency that was used to help with API requests and handling the API data.
+
+Tailwind CSS was added to help with styling. 
+
+
+In order to get the project running you will need
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
